@@ -8,9 +8,7 @@ sparrausyhteisöjen kiinnostuneiden jäsenten kanssa.
 
 Sparrausyhteisöjä
 =================
-[1] Lisää kaupunkia Helsinkiin Facebook-ryhmä: <br>
-[2] Finnish Open Data Ecosystem Facebook-ryhmä: https://www.facebook.com/groups-fi.okfn <br>
-
+[1] Helsingin kaupungin nuorisoasiainkeskus Facebook-ryhmä: https://www.facebook.com/groups/30607243027/
 
 APIt
 ====
