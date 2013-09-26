@@ -4,22 +4,39 @@ Tämä on Apps4Finland-kilpailun _Helsinki nuorten kännykässä_ -haastetta var
 
 ## Haaste sinulle
 
-Miten helsinkiläiset nuoret voisivat tuntea olevansa osa kaupunkia ja sen kehitystä?
-Helsingin nuorisoasiainkeskus on kiinnostunut mobiilisovelluksesta, joka voisi
-sisältää seuraavia toiminnallisuukssia:
-* sovelluksen avulla voisi tarjota lainapalveluita nuorten projekteihin, nuorisotyöntekijöiden neuvoja ja
-nuorisoa kiinnostavien aktiviteettien paikannuspalveluja (etsi lähin nuorisotila tai
-skeittipuisto jne.).
-* Nuorisoasiainkeskus haluaisi myös kytkeä nuoret kiinteämmin elinympäristöönsä ja antaa
-heille mahdollisuuden näkyä kaupunkikuvassa paremmin. Haastesovelluksen kautta nuoret
-voisivat myös tehdä aloitteita, osallistua projekteihin tai kampanjoida itselleen
-tärkeiden asioiden puolesta ja kerätä kasaan samanhenkisiä kannattamaan ideoitaan.
-* Sovelluksta voisi myös käyttää häiriökäyttäytymisestä raportointiin
-* Sovelluksen kautta nuoret voisivat luoda oman henkiökohtaisen profiilinsa ja
-tarjota kokemuksellista tietoaan mm. Helsingin kaupungin käyttäjäkyselyihin osallistumalla.
+Helsinki tarjoaa nuorille mahdollisuuksia toimia, järjestää
+tapahtumia, harrastaa yhdessä porukan kanssa ja saada tukea omalle
+tekemiselle. Kuitenkin vain osa helsinkiläisistä nuorista osaa
+hyödyntää nuorisoasiainkeskuksen palveluita. Helsingin kaupungin
+nuorisoasiainkeskuksella on tiloja, tarvikkeita ja avustustukea nuorten
+toiminnalle. Oli kyse tapahtuman järjestämisestä, vapaista tiloista,
+avustusten hakemisesta, lainattavista teltoista tai
+äänentoistotekniikasta nuorisoasiainkeskukselta löytyy tukea nuorten
+toimintaryhmille.
 
-Haasteena on siis rakentaa sovellus, joka kytkee nuoret Nuorisoasiainkeskuksen palveluihin
-ja saa nuorten äänen kuulumaan kaupungin päätöksentekossa.
+Nuorisoasiainkeskus hakee mobiilisovellusta, jonka avulla nykyiset
+palvelut tavoittaisivat entistä kattavammin helsinkiläiset nuoret.
+Nuori löytäisi mobiilisovelluksen avulla tukea omaan toimintaansa,
+harrastusmahdollisuuksia ja muita nuorten toimintaryhmiä sekä tiloja
+toiminalle. Mobiilisovelluksen avulla nuoret voisivat varata edellä
+mainittuja palveluita. Lisäksi mobiilisovellus paikantaisi tilat ja
+muut toimintamahdollisuudet alueellisesti, sekä liittäisi nuorten
+aloitteet tai muut alueen toimintaan liittyvät kaupungin tai nuorten
+kehittämistoimet. Nuorille mobiilisovellus tarjoaisi palvelujen lisäksi
+mahdollisuuden tuoda äänensä kuuluville palveluiden kehittämisessä.
+
+Nuorisoasiainkeskus haluaa kehittää palveluitaan, niin että ne
+tavoittavat mahdollisimman monet helsinkiläiset nuoret ja vastaavat yhä
+tarkemmin nuorten tarpeita. Nuorten oman kirjautumisprofiilin kautta
+nuorisoasiainkeskus voisi kehittää palveluitaan yhdessä käyttäjien
+kanssa. Mobiilisovelluksen vuorovaikutteisuus tarjoaisi
+nuorisoasiainkeskukselle ajanmukaista tietoa nuorten toiminnasta ja
+ryhmien tarpeista. Tarkempi käyttäjätieto mahdollistaisi
+nuorisoasiainkeskuksen osuvamman palvelumuotoilun ja kiinnittäisi
+nuorten ryhmät osaksi palveluiden kehittämistä. Nuorisoasiainkeskuksen
+visio mobiilisovellusta varten on kytkeä nuoret kiinteämmin
+elinympäristöönsä ja antaa heille mahdollisuuden näkyä ja vaikuttaa
+kaupunkiin nykyistä paremmin oman toimintansa avulla.
 
 [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
