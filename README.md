@@ -9,10 +9,7 @@ tapahtumia, harrastaa yhdessä porukan kanssa ja saada tukea omalle
 tekemiselle. Kuitenkin vain osa helsinkiläisistä nuorista osaa
 hyödyntää nuorisoasiainkeskuksen palveluita. Helsingin kaupungin
 nuorisoasiainkeskuksella on tiloja, tarvikkeita ja avustustukea nuorten
-toiminnalle. Oli kyse tapahtuman järjestämisestä, vapaista tiloista,
-avustusten hakemisesta, lainattavista teltoista tai
-äänentoistotekniikasta nuorisoasiainkeskukselta löytyy tukea nuorten
-toimintaryhmille.
+toiminnalle. 
 
 Nuorisoasiainkeskus hakee mobiilisovellusta, jonka avulla nykyiset
 palvelut tavoittaisivat entistä kattavammin helsinkiläiset nuoret.
