@@ -1,6 +1,6 @@
 ## Tässä kansiossa: kaikki tarpeellinen nuorison saamiseksi mukaan kehittämään omannäköistään kaupunkia
 
-Tämä on Apps4Finland-kilpailun _Helsinki nuorten kännykässä_ -haastetta varten koottu tukipaketti. 
+Tämä on Apps4Finland-kilpailun _Nuoren kaupunki_ -haastetta varten koottu tukipaketti. 
 
 ## Haaste sinulle
 
